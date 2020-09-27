@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="10dp"
+    android:gravity="center"
+    android:paddingRight="10dp"
+    tools:context=".ghotona10">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <TextView
+                android:textSize="18sp"
+                android:textColor="#000000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="একজন বয়স্ক রাজমিস্ত্রি তার কাজ থেকে অবসর নিতে চাইলেন। তাই মালিককে বললেন, ‘হুজুর, আমি বাড়ি বানানোর কাজ থেকে অবসর নিয়ে স্ত্রী-ছেলেমেয়ের সঙ্গে সময় কাটাতে চাই।’
+
+মালিক কিছুটা দুঃখ পেলেন। কারণ লোকটি ছিলেন সবচেয়ে দক্ষ ও কর্মঠ রাজমিস্ত্রি। তিনি বললেন, ‘ঠিক আছে। কিন্তু তুমি কি চলে যাওয়ার আগে আর মাত্র একটি বাড়ি বানাতে সাহায্য করবে?’
+
+বয়স্ক রাজমিস্ত্রি এ প্রস্তাবে রাজি হয়ে গেলেন। কিন্তু কাজ শুরু করার পর দেখা গেল, তার মন সেখানে নেই। সবসময় অবসরের কথা ভেবে অন্যমনস্ক থাকেন। সবসময় বাড়ি যাওয়ার চিন্তা করেন। তাই এর আগে যত কাজ করেছিলেন এটা সবচেয়ে খারাপ হয়ে গেল।
+
+বাড়ি তৈরি শেষ হলে মালিক দেখতে এলেন। বৃদ্ধের হাতে বাড়ির চাবি দিয়ে বললেন, ‘এটা এখন থেকে তোমার বাড়ি। তোমাকে আমার উপহার।’
+
+এ কথা শুনে বৃদ্ধ রাজমিস্ত্রি আফসোস করে উঠলেন। ভাবলেন, ‘হায় হায়! যদি একবার জানতাম, আমি নিজের বাড়ি তৈরি করছি! তাহলে এটা আমার জীবনে করা সবচেয়ে ভালো কাজ হতো!’
+
+শিক্ষা : আমরা প্রতিদিন আমাদের জীবনকে এই বাড়ির মতোই তৈরি করে চলেছি। কিন্তু আমরা প্রায়ই তা ভুলে যাই। তাই সব কাজে আমাদের সেরা পরিশ্রমের চেয়ে অনেক কম চেষ্টা থাকে। অনেক কম পরিশ্রম করি।">
+            </TextView>
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

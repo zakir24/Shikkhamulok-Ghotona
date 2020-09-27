@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="10dp"
+    android:gravity="center"
+    android:paddingRight="10dp"
+    tools:context=".ghotona6">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <TextView
+                android:textSize="18sp"
+                android:textColor="#000000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="এক বনে এক বাঘের বাচ্চার মা- বাবা মারা গেল।
+তো এক রাখাল ছেলে বাঘের বাচ্চাটিকে দেখে খুব
+মায়া হল, সে বাচ্চাটাকে নিজের ভেড়ার পালের
+সাথে লালন পালন করতে লাগল।
+বাঘের বাচ্চাটা শিকার ধরার পরিবর্তে ঘাস
+খাওয়া শুরু করল, সে ভুলে গেল সে বাঘের বাচ্চা!
+সে নিজেকে ভেড়ার বাচ্চা মনে করতে লাগল।
+সে ভেড়ার মত আচরন করতে শুরু করল।
+তার একটি দুঃখ বাকি ভেড়াদের মত তার কোন
+সিং নেই, ফলে সবাই তাকে সিং দিয়ে গুতো মারে
+সে কিছু করতে পারে না!
+একদিন বনের কিছু বাঘ এটি দেখল, তারা তাকে
+বুঝাল তুই ভেড়ার বাচ্চা না তুই বাঘের বাচ্চা
+তুই একটা হুংকার দিয়ে দেখ ভেড়ার পাল যান
+নিয়ে পালাবে। তাদের কথা মত বাঘের বাচ্চাটি
+ভেড়ার পালের কাছে গিয়ে হুংকার দিল অমনি সব
+যান নিয়ে পালিয়ে গেল!
+আমরা মুসলিম জাতিরা ও বাঘের মত বীরের জাতি!
+আমরা বিজাতিদের কালচার অনুসরন করতে করতে
+নিজেদের আসল পরিচয় ভুলে গেছি!
+ভুলে গেছি আমরা মুসলিম!
+জেনে রাখুন আমরা মুহাম্মদ বিন কাসিম,
+সালাউদ্দীন আয়ুবী, ওমর, খালিদ বিন
+ওয়ালিদ, হামজা এর জাতী! আমরা ঐ জাতি
+যাদের ভয়ে বাতিলেরা থর থর করে কাপত!!
+দুনিয়ার অর্ধেক যারা শাসন করত!">
+
+            </TextView>
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

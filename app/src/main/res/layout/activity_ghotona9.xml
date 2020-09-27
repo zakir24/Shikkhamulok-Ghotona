@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="10dp"
+    android:gravity="center"
+    android:paddingRight="10dp"
+    tools:context=".ghotona9">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <TextView
+                android:textSize="18sp"
+                android:textColor="#000000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="বিশাল বড় একটা জঙ্গল।এই জঙ্গলে বাস করে অনেক ধরনের পশু পাখি।সেখানে কারো সাথে কারো বিবাধ নেই।সবাই মিলেমিশে থাকে।সবাই সিংহকে রাজা ও শিয়াল কে পন্ডিত বলে মানে।একদিন শেয়াল পন্ডিতের বনে ঘুরতে ঘুরতে গাধার সাথে দেখা হয়ে যায়।তখন গাধা শিয়াল কে বলে জানেন পন্ডিত মশাই সূর্য পশ্চিম দিকে উঠে পূর্বদিকে অস্ত যায়।তখন শিয়াল মৃদু হেসে বলে আরে গাধা সূর্য পূর্বদিকে উঠে পশ্চিম দিকে অস্ত যায়।কিন্তু গাধাতো আর শিয়ালের কথা মানতেই নারাজ।তার মতে সূর্য পূর্বদিকে নয় পশ্চিম দিকেই উঠে।তাই সে নিজের কথায়ই অটল। এ নিয়ে বেঁধে যায় দুজনের মধ্যে ঝগড়া। তাই এটার সমাধান করতে তারা দুজনেই চলে যায় সিংহের কাছে। সিংহ সব শুনে গাধাকে মুক্ত করে দেয়।আর শিয়ালকে কারাদন্ড দেয়।এটা দেখে শিয়াল কাঁদো কাঁদো হয়ে সিংহকে জিজ্ঞেস করে হুজুর আমার অপরাধটা কি? তখন সিংহ বলে তোর কথাই ঠিক।সূর্য পশ্চিম দিকে নয় পূর্বদিকে উঠে পশ্চিম দিকে অস্ত যায়। কিন্তু তোর অপরাধ হলো তুই পন্ডিত হয়ে গাধার সাথে তর্ক করেছিস।
+নীতিকথা: আমরা অনেক সময় নিজেদের অবস্থান ভূলে গিয়ে সামান্য কথা নিয়ে মুর্খের সাথে তর্ক করে নিজেদের সম্মান ও সময় দুটোই নষ্ট করি।তবে পরে বুঝতে পেরে আপসোসের সীমা থাকেনা।তাই আমাদের কিছু করার আগে ভেবে চিন্তে করা উচিত।">
+
+            </TextView>
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

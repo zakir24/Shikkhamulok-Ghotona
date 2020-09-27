@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.Shikkhamulok.shikkhamulokghotonaf">
+    <uses-permission android:name="android.permission.INTERNET"></uses-permission>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"></uses-permission>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/iconn"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/iconn"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-8363998763344395~9843099180"/>
+
+
+        <activity android:name="com.Shikkhamulok.shikkhamulokghotonaf.notice"
+            android:parentActivityName="com.Shikkhamulok.shikkhamulokghotonaf.MainActivity"></activity>
+        <activity android:name="com.Shikkhamulok.shikkhamulokghotonaf.about"
+            android:parentActivityName="com.Shikkhamulok.shikkhamulokghotonaf.MainActivity"/>
+        <activity android:name="com.Shikkhamulok.shikkhamulokghotonaf.ghotona15"
+            android:parentActivityName="com.Shikkhamulok.shikkhamulokghotonaf.menu"/>
+        <activity android:name="com.Shikkhamulok.shikkhamulokghotonaf.ghotona14"
+            android:parentActivityName="com.Shikkhamulok.shikkhamulokghotonaf.menu"/>
+        <activity android:name="com.Shikkhamulok.shikkhamulokghotonaf.ghotona13"
+            android:parentActivityName="com.Shikkhamulok.shikkhamulokghotonaf.menu"/>
+        <activity android:name="com.Shikkhamulok.shikkhamulokghotonaf.ghotona12"
+            android:parentActivityName="com.Shikkhamulok.shikkhamulokghotonaf.menu"/>
+        <activity android:name="com.Shikkhamulok.shikkhamulokghotonaf.ghotona11"
+            android:parentActivityName="com.Shikkhamulok.shikkhamulokghotonaf.menu"/>
+        <activity android:name="com.Shikkhamulok.shikkhamulokghotonaf.ghotona10"
+            android:parentActivityName="com.Shikkhamulok.shikkhamulokghotonaf.menu"/>
+        <activity android:name="com.Shikkhamulok.shikkhamulokghotonaf.ghotona9"
+            android:parentActivityName="com.Shikkhamulok.shikkhamulokghotonaf.menu"/>
+        <activity android:name="com.Shikkhamulok.shikkhamulokghotonaf.ghotona8"
+            android:parentActivityName="com.Shikkhamulok.shikkhamulokghotonaf.menu"/>
+        <activity android:name="com.Shikkhamulok.shikkhamulokghotonaf.ghotona7"
+            android:parentActivityName="com.Shikkhamulok.shikkhamulokghotonaf.menu"/>
+        <activity android:name="com.Shikkhamulok.shikkhamulokghotonaf.ghotona6"
+            android:parentActivityName="com.Shikkhamulok.shikkhamulokghotonaf.menu"/>
+        <activity android:name="com.Shikkhamulok.shikkhamulokghotonaf.ghotona5"
+            android:parentActivityName="com.Shikkhamulok.shikkhamulokghotonaf.menu"/>
+        <activity android:name="com.Shikkhamulok.shikkhamulokghotonaf.ghotona4"
+            android:parentActivityName="com.Shikkhamulok.shikkhamulokghotonaf.menu"/>
+        <activity android:name="com.Shikkhamulok.shikkhamulokghotonaf.ghotona3"
+            android:parentActivityName="com.Shikkhamulok.shikkhamulokghotonaf.menu"/>
+        <activity android:name="com.Shikkhamulok.shikkhamulokghotonaf.ghotona2"
+            android:parentActivityName="com.Shikkhamulok.shikkhamulokghotonaf.menu"/>
+        <activity android:name="com.Shikkhamulok.shikkhamulokghotonaf.ghotona1"
+            android:parentActivityName="com.Shikkhamulok.shikkhamulokghotonaf.menu"/>
+        <activity android:name="com.Shikkhamulok.shikkhamulokghotonaf.menu"
+            android:parentActivityName="com.Shikkhamulok.shikkhamulokghotonaf.MainActivity"/>
+        <activity android:name="com.Shikkhamulok.shikkhamulokghotonaf.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+
+
+    </application>
+
+</manifest>

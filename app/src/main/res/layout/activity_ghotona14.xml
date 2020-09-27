@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="10dp"
+    android:gravity="center"
+    android:paddingRight="10dp"
+    tools:context=".ghotona14">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <TextView
+                android:textSize="18sp"
+                android:textColor="#000000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="                       *ইসলামিক ঘটনা*\nহযরত ওমর ইবনে খাত্তাব (রাযিঃ) বর্ণনা করেন যে, নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের নিকট কয়েকজন কয়েদীকে আনা হইল। তাহাদের মধ্যে একটি মেয়েলোককে দেখিলেন যে তাহার সন্তানকে তালাশ করিয়া বেড়াইতেছে। যখন সে তাহার সন্তানকে পাইল অমনি তাকে উঠাইয়া আপন পেটের সহিত জড়াইয়া লইল এবং দুধপান করাইল। নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের প্রতি লক্ষ্য করিয়া বলিলেন, তোমাদের কি ধারণা এই মেয়েলোকটি কি তাহার সন্তানকে আগুনে নিক্ষেপ করিতে পারে? আমরা আরজ করিলাম আল্লাহর কসম পারে না। বিশেষতঃ যখন সন্তানকে আগুনে নিক্ষেপ না করিবার তাহার ক্ষমতা থাকে ( এবং কোন অপারগতা না থাকে)। অতঃপর তিনি এরশাদ করিলেন, এই মেয়েলোকটি যে পরিমাণ দয়া ও মায়া করে আল্লাহ তায়ালা আপন বান্দাদেরকে অপেক্ষা অনেক বেশী দয়া ও মায়া করেন (মুসলিম)">
+
+            </TextView>
+        </LinearLayout>
+    </ScrollView>
+
+
+
+</LinearLayout>

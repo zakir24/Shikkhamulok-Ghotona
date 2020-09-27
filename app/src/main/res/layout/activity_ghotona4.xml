@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="10dp"
+    android:gravity="center"
+    android:paddingRight="10dp"
+    tools:context=".ghotona4">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <TextView
+                android:textSize="18sp"
+                android:textColor="#000000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="সমুদ্রের মাঝখানে এক জাহাজ প্রচন্ড ঝড়ের মধ্যে পরে লন্ডভন্ড হয়ে গেল। সেই জাহাজের বেঁচে যাওয়া এক যাত্রী ভাসতে ভাসতে এক নির্জন দ্বীপে এসে পৌছালো। জ্ঞান ফেরার পর প্রথমেই সে আল্লাহর কাছে প্রানখুলে ধন্যবাদ জানালো তার জীবন বাঁচানোর জন্যে। প্রতিদিন সে দ্বীপের তীরে এসে বসে থাকতো যদি কোনো জাহাজ সেদিকে আসে এই আশায়।কিন্তু প্রতিদিনই তাকে হতাশ হয়ে ফিরে আসতে হতো।এরই মধ্যে সে সমুদ্রতীরে তার জন্যে একটা ছোট ঘর তৈরী করে ফেললো। সমুদ্রের মাছ ধরে এবং বন থেকে ফলমূল শিকার সে বেঁচে থাকলো।
+
+এরই মধ্যে সে একদিন খাবারের খোঁজে বনের মধ্যে গেল। বন থেকে সে যখন ফিরে এলো তখন দেখলো যে তার রান্না করার চুলা থেকে আগুন লেগে পুরো ঘরটিই ছাই হয়ে গিয়েছে এবং তার কালো ধোঁয়ায় আকাশ ভরে গিয়েছে।লোকটি চিৎকার করে উঠলো,
+
+‘হায় আল্লাহ,তুমি আমার ভাগ্যে এটাও রেখেছিলে!’
+
+পরদিন সকালে এক জাহাজের আওয়াজে তার ঘুম ভাঙলো।জাহাজটি সেই দ্বীপের দিকে তাকে উদ্ধার করার জন্যই আসছিলো। সে অবাক হয়ে বললো,
+‘তোমরা কিভাবে জানলে যে আমি এখানে আটকা পরে আছি!’
+
+জাহাজের ক্যাপ্টেন জানালো,‘তোমার জ্বালানো ধোঁয়ার সংকেত দেখে।'
+
+কোন ব্যর্থতায় হতাশ হবেন না, সবসমই আল্লাহ্ র উপর ভরসা রাখুন,আল্লাহ্‌ যা কিছু করেন; তার সৃষ্টির ভালো কিছুর জন্যই করেন। আসুন আমরা সবাই আল্লাহর শুকরিয়া আদায় করি .... আমিন ">
+
+            </TextView>
+        </LinearLayout>
+    </ScrollView>
+
+
+
+</LinearLayout>

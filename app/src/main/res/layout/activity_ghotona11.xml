@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="10dp"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:paddingRight="10dp"
+    tools:context=".ghotona11">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <TextView
+                android:textSize="18sp"
+                android:textColor="#000000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="                      *ইসলামিক ঘটনা*\nহযরত মুসা আ: একবার আল্লাহ্
+তায়ালাকে জিজ্ঞেস করলেন, হে আল্লাহ্!
+জান্নাতে আমার সাথে কে থাকবে?
+জবাবে বলা হলো,ওমুক কসাই !
+জবাবে কসাইয়ের নাম শুনে মুসা আ:
+খুবই আশ্চর্য হলেন।
+অনেক খোঁজ করার
+পর মুসা আ: তাকে বের করলেন।
+দেখলেন, কসাই গোস্ত বিক্রিতে ব্যস্ত!
+সবশেষে কসাই একটুকরো গোস্ত একটি
+কাপড়ে মুড়িয়ে নিলেন।
+অতঃপর বাড়ির দিকে রওয়ানা হলেন।
+মুসা আ: তাঁর সম্পর্কে আরো জানার জন্যে
+অনুমতি নিয়ে পিছুপিছু তাঁর বাড়ি গেলেন।
+কসাই বাড়ি পৌঁছে গোস্ত রান্না করলেন।
+অতপর রুটি বানিয়ে তা গোস্তের ঝোলে
+মেখে নরম করলেন।
+তারপর ঘরের ভিতরের কামরায় প্রবেশ
+করে শয়নরত এক বৃদ্ধাকে উঠিয়ে বসালেন ।
+তারপর তার মুখে টুকরো টুকরো রুটি পুরে
+দিতে লাগলেন।
+খাওয়ার পর বৃদ্ধা কি যেন কানেকানে
+বললেন। অমনি কসাই মুচকি হাসলেন।
+দূর থেকে মুসা আ: সব-ই দেখছিলেন।
+কিন্তু, কিছুই বুঝলেন না।
+মুসা আ: বৃদ্ধার পরিচয় এবং মুচকি হাসার
+বিষয়টি কসাইকে জিজ্ঞেস করলেন।
+কসাই বললেন, ওনি আমার মা!
+আমি বাজার থেকে আসার পর সর্বপ্রথম
+আমার মাকে রান্না করে খাওয়াই।
+আর, মা খাওয়ার পর খুশি হয়ে আমার
+কানের কাছে এসে আল্লাহ্ তায়ালার কাছে
+এই বলে দোআ করেন, “আল্লাহ্ তায়ালা
+তোমাকে বেহেস্ত দান করুক এবং মুসা আ:
+এর সাথে রাখুক”!
+আমি এই দোআ শুনে এই ভেবে মুচকি হাসি
+যে, কোথায় মুসা আ: আর কোথায় আমি।">
+
+
+            </TextView>
+        </LinearLayout>
+    </ScrollView>
+
+
+
+</LinearLayout>

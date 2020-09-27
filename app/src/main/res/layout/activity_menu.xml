@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingRight="10dp"
+    android:paddingLeft="10dp"
+    android:paddingBottom="10dp"
+    android:orientation="vertical"
+    android:background="#000000"
+    tools:context=".menu">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <Button
+
+                android:textStyle="bold"
+
+                android:id="@+id/btn1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="ঘটনা-১">
+
+            </Button>
+            <Button
+
+                android:id="@+id/btn2"
+                android:textStyle="bold"
+
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="ঘটনা-২">
+
+            </Button>
+            <Button
+                android:id="@+id/btn3"
+                android:textStyle="bold"
+
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="ঘটনা-৩">
+
+            </Button>
+            <Button
+                android:id="@+id/btn4"
+                android:textStyle="bold"
+
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="ঘটনা-৪">
+
+            </Button>
+            <Button
+                android:id="@+id/btn5"
+                android:textStyle="bold"
+
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="ঘটনা-৫">
+
+            </Button>
+            <Button
+                android:id="@+id/btn6"
+                android:textStyle="bold"
+
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="ঘটনা-৬">
+
+            </Button>
+            <Button
+                android:id="@+id/btn7"
+                android:textStyle="bold"
+
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="ঘটনা-৭">
+
+            </Button>
+            <Button
+                android:id="@+id/btn8"
+                android:textStyle="bold"
+
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="ঘটনা-৮">
+
+            </Button>
+            <Button
+                android:id="@+id/btn9"
+
+                android:textStyle="bold"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="ঘটনা-৯">
+
+            </Button>
+            <Button
+                android:id="@+id/btn10"
+                android:textStyle="bold"
+
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="ঘটনা-১০">
+
+            </Button>
+
+            <Button
+                android:id="@+id/btn11"
+                android:textStyle="bold"
+
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="ঘটনা-১১">
+
+            </Button>
+
+            <Button
+                android:id="@+id/btn12"
+                android:textStyle="bold"
+
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="ঘটনা-১২">
+
+            </Button>
+            <Button
+                android:id="@+id/btn13"
+                android:textStyle="bold"
+
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="ঘটনা-১৩">
+
+            </Button>
+
+            <Button
+                android:id="@+id/btn14"
+                android:textStyle="bold"
+
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="ঘটনা-১৪">
+
+            </Button>
+            <Button
+                android:id="@+id/btn15"
+                android:textStyle="bold"
+
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="ঘটনা-১৫">
+            </Button>
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
